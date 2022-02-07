@@ -1,0 +1,5 @@
+a = input("Enter Filename: ")
+
+b = fn.split(".")
+
+print ("Extension of the file is : " + b[-1])
